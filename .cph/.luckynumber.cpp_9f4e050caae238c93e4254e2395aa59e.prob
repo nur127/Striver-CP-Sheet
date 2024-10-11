@@ -1,0 +1,1 @@
+{"name":"Local: luckynumber","url":"d:\\CP\\Striver\\luckynumber.cpp","tests":[{"id":1728577323226,"input":"40047\n","output":""},{"id":1728577341086,"input":"7747774\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Striver\\luckynumber.cpp","group":"local","local":true}

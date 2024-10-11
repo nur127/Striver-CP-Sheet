@@ -1,0 +1,1 @@
+{"name":"Local: roundsum","url":"d:\\CP\\Striver\\roundsum.cpp","tests":[{"id":1728406688482,"input":"5\n5009\n7\n9876\n10000\n10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Striver\\roundsum.cpp","group":"local","local":true}

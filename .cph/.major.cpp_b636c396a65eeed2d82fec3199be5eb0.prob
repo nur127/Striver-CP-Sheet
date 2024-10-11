@@ -1,0 +1,1 @@
+{"name":"Local: major","url":"d:\\CP\\Striver\\major.cpp","tests":[{"id":1728452492555,"input":"4\n33 44 11 22\n","output":""},{"id":1728452515567,"input":"7\n10 10 58 31 63 40 76\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Striver\\major.cpp","group":"local","local":true}
